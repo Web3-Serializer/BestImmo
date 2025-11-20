@@ -1,4 +1,4 @@
-# 🏡 BestImmo
+# 🏡 French-eState-Scrapper
 
 Modular scraper for French real estate listings from major platforms like Le Figaro, SeLoger, LogicImmo, BienIci, IAD, Notaires, Vinci, and Immobilier France. Designed for data analysis.<br>
 
@@ -28,8 +28,8 @@ This scraper is designed for **educational purposes only**. It collects real est
 ## 🛠 Installation
 
 ```bash
-git clone https://github.com/Web3-Serializer/BestImmo.git
-cd BestImmo
+git clone https://github.com/Web3-Serializer/French-eState-Scrapper.git
+cd French-eState-Scrapper
 ```
 
 Make sure MongoDB is running locally or provide a connection URI in the configuration.
