@@ -1,14 +1,14 @@
-# BestImmo
+# 🏡 BestImmo
 
 Modular scraper for French real estate listings from major platforms like Le Figaro, SeLoger, LogicImmo, BienIci, IAD, Notaires, Vinci, and Immobilier France. Designed for data analysis.<br>
 
 *Note: This was built in 1 day and the code quality is poor.*
 
-## About
+## ❓ About
 
 This scraper is designed for **educational purposes only**. It collects real estate listings from multiple French property platforms without overloading their servers. **Do not abuse the APIs**.
 
-## Supported Platforms
+## ✅ Supported Platforms
 
 * `LeFigaro`
 * `SeLoger`
@@ -19,13 +19,13 @@ This scraper is designed for **educational purposes only**. It collects real est
 * `VinciImmobilier`
 * `ImmobilierFrance`
 
-## Features
+## 💫 Features
 
 * Collects property data: type, location, price, surface, number of rooms, and seller info.
 * Modular architecture for easy extension to new platforms.
 * Stores listings in **MongoDB** for easy querying and analysis.
 
-## Installation
+## 🛠 Installation
 
 ```bash
 git clone https://github.com/Web3-Serializer/BestImmo.git
@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 Make sure MongoDB is running locally or provide a connection URI in the configuration.
 
-## Usage
+## 📜 Usage
 
 ```python
 from scrapers import LeFigaro, SeLoger, LogicImmo
