@@ -41,7 +41,7 @@ from scrapers import LeFigaro, SeLoger, LogicImmo
 
 # Example: scrape listings from Le Figaro
 scraper = LeFigaro.LeFigaroModule()
-scraper.scrape_and_store()  # stores results in MongoDB
+scraper.start()  # start and stores results in MongoDB
 ```
 
 > ⚠️ **Warning:** This project is for educational purposes only. Respect the websites' terms of service.
