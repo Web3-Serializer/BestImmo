@@ -1,7 +1,8 @@
 # BestImmo
 
-Modular scraper for French real estate listings from major platforms like Le Figaro, SeLoger, LogicImmo, BienIci, IAD, Notaires, Vinci, and Immobilier France.
-Note: This was built in 1 day and the code quality is poor.
+Modular scraper for French real estate listings from major platforms like Le Figaro, SeLoger, LogicImmo, BienIci, IAD, Notaires, Vinci, and Immobilier France.<br>
+
+*Note: This was built in 1 day and the code quality is poor.*
 
 ## About
 
