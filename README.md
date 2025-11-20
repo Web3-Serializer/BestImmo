@@ -30,7 +30,6 @@ This scraper is designed for **educational purposes only**. It collects real est
 ```bash
 git clone https://github.com/Web3-Serializer/BestImmo.git
 cd BestImmo
-pip install -r requirements.txt
 ```
 
 Make sure MongoDB is running locally or provide a connection URI in the configuration.
